@@ -1,3 +1,3 @@
 #! /usr/bin/env python
 
-print("Hello, World!!")
+print("\x1B[31mHello, World\x1B[0m!!")
